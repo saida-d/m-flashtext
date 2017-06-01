@@ -1,4 +1,4 @@
-Ionic App Base
+Ionic/Angular - Typescript App
 =====================
 
 This is the base template for Ionic starter apps.
