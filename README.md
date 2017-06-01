@@ -1,7 +1,7 @@
 Ionic/Angular - Typescript App
 =====================
 
-This is the base template for Ionic starter apps.
+Internal product app shared for dev/env
 
 ## Using this project
 
